@@ -152,9 +152,9 @@ Through this project, I gained hands-on experience in:
 
 Aspiring Data Engineer | Java Developer | AI Enthusiast
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Nitesh-2811
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/nitesh2911/
 
 ---
 
