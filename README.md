@@ -122,16 +122,6 @@ data-warehouse-analytics/
 
 ---
 
-## 📈 Sample Business Questions Answered
-
-* Who are the top-performing customers?
-* Which products generate the highest revenue?
-* What are the monthly sales trends?
-* Which regions contribute the most sales?
-* What is the overall business growth trend?
-
----
-
 ## 🌟 Learning Outcomes
 
 Through this project, I gained hands-on experience in:
