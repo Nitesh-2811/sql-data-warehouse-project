@@ -69,20 +69,23 @@ The project aims to provide insights into:
 
 ## 📂 Repository Structure
 
+```text
 data-warehouse-project/
 │
-├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
+├── datasets/                  # Raw datasets used throughout the project
 │
-├── scripts/                            # SQL scripts for ETL and transformations
-│   ├── bronze/                         # Scripts for extracting and loading raw data
-│   ├── silver/                         # Scripts for cleaning and transforming data
-│   ├── gold/                           # Scripts for creating analytical models
+├── scripts/                   # SQL scripts for ETL processes and data transformations
+│   ├── bronze/                # Data extraction and raw data loading scripts
+│   ├── silver/                # Data cleansing, standardization, and transformation scripts
+│   └── gold/                  # Business-ready models and analytical layer scripts
 │
-├── tests/                              # Test scripts and quality files
+├── tests/                     # Data quality checks and validation scripts
 │
-├── README.md                           # Project overview and instructions
-├── LICENSE                             # License information for the repository
-├── .gitignore                          # Files and directories to be ignored by Git
+├── README.md                  # Project documentation and setup guide
+├── LICENSE                    # Repository license information
+└── .gitignore                 # Git ignored files and directories
+```
+
 
 
 ## 🚀 Project Workflow
