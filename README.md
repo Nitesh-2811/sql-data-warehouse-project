@@ -73,16 +73,6 @@ data-warehouse-analytics/
 
 ├── datasets/                 # Source CSV datasets
 
-├── docs/                     # Project documentation
-
-│   ├── data_architecture.drawio
-
-│   ├── data_flow.drawio
-
-│   ├── data_model.drawio
-
-│   └── data_catalog.md
-
 ├── scripts/
 
 │   ├── bronze/               # Raw data loading scripts
