@@ -69,27 +69,20 @@ The project aims to provide insights into:
 
 ## 📂 Repository Structure
 
-data-warehouse-analytics/
-
-├── datasets/                 # Source CSV datasets
-
-├── scripts/
-
-│   ├── bronze/               # Raw data loading scripts
-
-│   ├── silver/               # Data cleansing scripts
-
-│   └── gold/                 # Analytical model scripts
-
-├── tests/                    # Data quality tests
-
-├── README.md
-
-├── LICENSE
-
-└── .gitignore
-
----
+data-warehouse-project/
+│
+├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
+│
+├── scripts/                            # SQL scripts for ETL and transformations
+│   ├── bronze/                         # Scripts for extracting and loading raw data
+│   ├── silver/                         # Scripts for cleaning and transforming data
+│   ├── gold/                           # Scripts for creating analytical models
+│
+├── tests/                              # Test scripts and quality files
+│
+├── README.md                           # Project overview and instructions
+├── LICENSE                             # License information for the repository
+├── .gitignore                          # Files and directories to be ignored by Git
 
 ## 🚀 Project Workflow
 
