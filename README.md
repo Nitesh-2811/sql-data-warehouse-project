@@ -84,6 +84,7 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 
+
 ## 🚀 Project Workflow
 
 1. Extract data from source systems.
